@@ -1,7 +1,7 @@
-## Privacy Policy for LucidPass
+## Privacy Policy for UR-Vault
 Effective Date: 10-Dec-2025
 
-This Privacy Policy describes how we handle information in connection with your use of the LucidPass mobile application (the "App").
+This Privacy Policy describes how we handle information in connection with your use of the UR-Vault mobile application (the "App").
 
 ### 1. Our Commitment to Zero-Knowledge Privacy
 We have designed our App using a zero-knowledge security model. This means that all your sensitive data, including your password comfigurations, and all other contents, are encrypted on your device.
@@ -50,5 +50,5 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 9. Contact Us
 If you have any questions about this Privacy Policy or our data practices, please contact us:
 By Email: contact.bkadambi@gmail.com
-Via the App: Settings > Help & Support
-LucidPass is available on the [Google Play Store]([Your Play Store Listing URL]).
+
+
