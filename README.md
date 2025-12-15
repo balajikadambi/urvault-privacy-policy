@@ -35,7 +35,7 @@ Third-Party Services: We may use minimal third-party services (e.g., for google 
 
 ### 6. Data Security
 We implement robust security measures to protect the information under our control.
-All sensitive user data is encrypted client-side using industry-standard AES-256 encryption.
+All sensitive user data is encrypted by device OS and we are using industry-standard AES-256 encryption for backup and restore.
 
 ### 7. User Rights (GDPR & CCPA)
 Depending on your location, you may have specific rights regarding your personal data. These may include the right to:
